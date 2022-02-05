@@ -160,7 +160,16 @@ input[type=radio]{
   font-size: 60px;
 
 }
-
+footer{
+    display: flex;
+    padding: 0px,10px;
+    font-size: 20px;
+    color: #000000;
+}
+.copy{
+    margin-left: 1000px;
+    float: left;
+}
 
 
 
