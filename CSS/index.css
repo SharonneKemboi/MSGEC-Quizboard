@@ -67,3 +67,36 @@ ul.main li a {
 .quiztitle-txt p{
     margin-top: 20%;
 }
+.section2 {
+    margin-top: 10px;
+    background-color: white;
+}
+
+.section2 .welcome {
+    text-align: center;
+    padding-top: 20px;
+    height: 240px;
+}
+
+.welcome h2 {
+    font-size: x-large;
+    margin: 10px;
+}
+
+.welcome p {
+    font-size: large;
+    margin: 10px;
+}
+
+.welcome a {
+    text-decoration: none;
+    color: white;
+    background-color:#493ea8;
+    padding: 10px 30px;
+    border-radius: 10px;
+    margin: 10px;
+    display: inline-block;
+}
+
+
+
