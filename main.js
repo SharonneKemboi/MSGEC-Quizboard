@@ -1,4 +1,4 @@
-function mySubbmitButton(){
+function mySubmitButton(){
     
     var score = 0;
     var currentAnswer1 = document.Questions.question1.value;
