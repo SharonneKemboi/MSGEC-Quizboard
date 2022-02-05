@@ -1,0 +1,212 @@
+/*For Mobile Devices*/
+
+@media screen and (max-width: 800px){
+    header {
+        padding: 0px 50px;
+    }
+    
+    .logoName {
+        font-family: 'Old Standard TT';
+        color: #493ea8;
+        font-size: 80px;
+    }
+    
+    nav {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-top: 10px;
+        flex-direction: column;
+    }
+    
+    ul.main {
+        list-style: none;
+        display: flex;
+        justify-content: space-between;
+        margin-left: 70%;
+        background-color: #9994c5;
+        flex-direction: column;
+    
+      
+    }
+    
+    ul.main li a {
+        text-decoration: none;
+        color: black;
+        font-size: x-large;
+    }
+    
+    .quiz-title {
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        background-color:#493ea8;
+        flex-direction: column;
+    }
+    
+    .quiz-title-img {
+        height: 300px;
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .quiztitle-txt {
+        color: white;
+        font-size: xx-large;
+    
+    }
+    .quiztitle-txt p{
+        margin-top: 20%;
+    }
+    .section2 {
+        margin-top: 10px;
+        background-color: white;
+    }
+    
+    .section2 .welcome {
+        text-align: center;
+        padding-top: 20px;
+        height: 240px;
+    }
+    
+    .welcome h2 {
+        font-size: x-large;
+        margin: 10px;
+    }
+    
+    .welcome p {
+        font-size: large;
+        margin: 10px;
+    }
+    
+    .welcome a {
+        text-decoration: none;
+        color: white;
+        background-color:#493ea8;
+        padding: 10px 30px;
+        border-radius: 10px;
+        margin: 10px;
+        display: inline-block;
+    }
+    .submit-btn input{
+        background-color: #493ea8;
+        color: white;
+        font-size: 25px;
+        justify-content: space-around;
+        width: 20%;
+        font-weight: bolder;
+    }
+    .quizzes h3{
+        font-size: 20px;
+        padding: 10px;
+        font-weight: bolder;
+    
+    }
+    .quizzes p{
+        padding: 10px 20px;
+        margin: 10px 10px;
+        font-size: 17px;
+        font-weight: normal;
+    }
+}
+@media screen and (max-width: 600px){
+    .submit-btn input{
+        background-color:#493ea8;
+        color: white;
+        font-size: 18px;
+        justify-content: space-around;
+        width: 20%;
+        font-weight: bolder;
+    }
+    .quizzes h3{
+        font-size: 22px;
+        padding: 10px;
+        font-weight: bolder;
+    
+    }
+    .quizzes p{
+        padding: 10px 20px;
+        margin: 10px 10px;
+        font-size: 16px;
+        font-weight: normal;
+    }
+}
+@media screen and (max-width: 500px){
+    .submit-btn input{
+        background-color: darkcyan;
+        color: white;
+        font-size: 11px;
+        justify-content: space-around;
+        width: 60%;
+        font-weight: bolder;
+    }
+    .quizzes h3{
+        font-size: 22px;
+        padding: 10px;
+        font-weight: bolder;
+    
+    }
+    .quizzes p{
+        padding: 10px 20px;
+        margin: 10px 10px;
+        font-size: 16px;
+        font-weight: normal;
+    }
+}
+@media screen and (max-width: 1000px){
+    .submit-btn input{
+        background-color: darkcyan;
+        color: white;
+        font-size: 21px;
+        justify-content: space-around;
+        width: 21%;
+        font-weight: bolder;
+    }
+}
+@media screen and (max-width: 350px){
+    .submit-btn input{
+        background-color: darkcyan;
+        color: white;
+        font-size: 11px;
+        justify-content: space-around;
+        width: 60%;
+        font-weight: bolder;
+    }
+    .quizzes h3{
+        font-size: 22px;
+        padding: 10px;
+        font-weight: bolder;
+    
+    }
+    .quizzes p{
+        padding: 10px 20px;
+        margin: 10px 10px;
+        font-size: 16px;
+        font-weight: normal;
+    }
+}
+@media screen and (max-width: 250px){
+    .submit-btn input{
+        background-color: darkcyan;
+        color: white;
+        font-size: 11px;
+        justify-content: space-around;
+        width: 100%;
+        font-weight: bolder;
+    }
+    .quizzes h3{
+        font-size: 22px;
+        padding: 10px;
+        font-weight: bolder;
+    
+    }
+    .quizzes p{
+        padding: 10px 20px;
+        margin: 10px 10px;
+        font-size: 16px;
+        font-weight: normal;
+    }
+    form h2{
+        font-size: 10px;
+    }
+}
