@@ -9,7 +9,6 @@ This is Maria Soti Girls Eduactional Centre(MSGEC) quizboard website that allows
 + [Installation Requirement](Installation)
 + [How To Access the Site](#sitelink)
 + [Technology Used](#technology-used)
-+ [Dependencies](#dependencies)
 + [Bugs](#bugs)
 + [Reference](#reference)
 + [Licence](#licence)
@@ -27,7 +26,7 @@ This is Maria Soti Girls Eduactional Centre(MSGEC) quizboard website that allows
 * Clone the repository to local folder
 * Go Live 
 ## How To Access the Site
-The QuizBoard page is being hosted by GitHub Pages. The link to the page is:
+The QuizBoard page is being hosted by GitHub Pages. The link to the page is:https://sharonnekemboi.github.io/MSGEC-Quizboard/
 
 ### Requirements
 
@@ -77,6 +76,6 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE
 
 ## Authors Info
-Sharon Kemboi01 :Slack
+Sharonne Kemboi
 Email:sharon.kemboi01@student.moringaschool.com
 Github:https://github.com/SharonneKemboi
