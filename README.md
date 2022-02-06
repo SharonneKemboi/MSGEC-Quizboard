@@ -16,10 +16,10 @@ This is Maria Soti Girls Eduactional Centre(MSGEC) quizboard website that allows
 
 
 ## Description
-<p>This is  a website that allows students who have just completed studying Javascript in their computer class to take tests ,get instant scores and have their perfomance reviewed and if poorly done they are prompted to retake the test.</p>
+<p>This is  a website that allows students at Maria Soti Girls Educational Centre who have just completed studying Javascript in their computer class to take a quiz ,get an instant score and have a review/comment on their perfomance. </p>
 <P>A preview of the web design is below:</P>
 
-[QUIZ-BOARD Design Link]()
+[QUIZ-BOARD Design Link](https://www.figma.com/file/mrEQFEP10RWu9CzCkXzlm0/MSGEC-QUIZBOARD-DESIGN?node-id=0%3A1)
 
 ## Installation requirement
 * You need to have visual studio code installed.
