@@ -47,6 +47,11 @@ ul.main li a {
     color: black;
     font-size: x-large;
 }
+.Signup{
+    background-color: #493ea8;
+    border: 1px solid;
+    border-radius: 5px;
+}
 
 .quiz-title {
     display: flex;
@@ -80,6 +85,11 @@ ul.main li a {
     padding-top: 20px;
     height: 240px;
 }
+.section2 img{
+    float: right;
+    height: 237px;
+    
+}
 
 .welcome h2 {
     font-size: x-large;
@@ -103,6 +113,14 @@ ul.main li a {
 form {
     margin: 30px 50px
 
+}
+.jslogo{
+float: right;
+margin-top: 100px;
+width: 45%;
+max-height: fit-content;
+margin-top: 20%;
+opacity: 0.3;
 }
 h2{
     font-size: 25px;
